@@ -1,4 +1,0 @@
-the user has collateral e.g $100 of eth
-the user wants to mint some dsc
-in order to mint the value of the collateral he has, has to be greater
-than the value of the dsc he has
